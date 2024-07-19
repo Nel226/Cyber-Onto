@@ -1,2 +1,2 @@
-# Cyber-Onto
+# cyberOnto
 Application de dépôts
