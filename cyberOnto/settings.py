@@ -79,8 +79,8 @@ DATABASES = {
         'NAME': 'bd_cyberOnto',
         'USER': 'postgres',
         'PASSWORD': 'donatien',
-        'HOST': 'localhost',  # ou l'adresse IP de votre serveur PostgreSQL
-        'PORT': '5432',       # le port par défaut de PostgreSQL
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
